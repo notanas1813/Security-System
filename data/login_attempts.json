@@ -1,0 +1,27 @@
+{
+  "baochode2004@gmail.com": {
+    "failed_attempts": 1,
+    "first_failed_time": "2025-07-15T15:33:41.297906",
+    "locked_until": null
+  },
+  "hainguyen1852004@gmail.com": {
+    "failed_attempts": 0,
+    "first_failed_time": null,
+    "locked_until": null
+  },
+  "lqd.a1k21.hotranhainguyen@gmail.com": {
+    "failed_attempts": 0,
+    "first_failed_time": null,
+    "locked_until": null
+  },
+  "": {
+    "failed_attempts": 1,
+    "first_failed_time": "2025-07-15T14:17:37.311299",
+    "locked_until": null
+  },
+  "haiasd": {
+    "failed_attempts": 1,
+    "first_failed_time": "2025-07-15T15:13:31.112860",
+    "locked_until": null
+  }
+}

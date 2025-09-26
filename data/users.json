@@ -1,0 +1,28 @@
+[
+  {
+    "email": "hainguyen1852004@gmail.com",
+    "name": "Hồ Trần Hải Nguyên",
+    "dob": "2004-05-18",
+    "phone": "0919158343",
+    "address": "Nguyễn Lâm",
+    "salt": "8d2255dacc08f1214e3cd3cb778b56a8",
+    "pass_hash": "45579601673616da687ad30ce400312c3a22b67a00a34d324a91b805e6eb8d88",
+    "created_at": "2025-07-15T12:54:34.706484",
+    "role": "owner",
+    "locked": false,
+    "totp_secret": "DVJLTZ6AB6MYY2XJNDR2GSFLXDHPEES3"
+  },
+  {
+    "email": "lqd.a1k21.hotranhainguyen@gmail.com",
+    "name": "asdklasjd",
+    "dob": "2000-05-05",
+    "phone": "05564654654",
+    "address": "56465465asdasd",
+    "salt": "bcaae76028370795c052e175d27755fd",
+    "pass_hash": "4d15d8b742f9e350b6471d492d1e6e2488b8bc685139ac90c01822d999afb1bf",
+    "created_at": "2025-07-15T19:47:09.492210",
+    "role": "admin",
+    "locked": false,
+    "totp_secret": "MX6NHVE22KETGTXDU62CHLG7DOU67WFX"
+  }
+]

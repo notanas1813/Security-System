@@ -1,0 +1,1033 @@
+2025-06-22T00:50:45.094722 | nbao180204@gmail.com | register | fail: weak passphrase
+2025-06-22T00:52:21.131245 | nbao180204@gmail.com | register | fail: weak passphrase
+2025-06-22T00:54:11.807323 | nbao180204@gmail.com | register | success
+2025-06-22T00:55:02.940029 | baonwb@gmail.com | register | success
+2025-06-22T00:55:49.335080 | nbao180204@gmail.com | register | fail: email exists
+2025-06-22T10:05:30.262053 | openaibao@gmail.com | register | fail: weak passphrase
+2025-06-22T10:05:57.951539 | openaibao@gmail.com | register | success
+2025-06-22T10:06:20.785488 | openaibao@gmail.com | login | totp_qr_created
+2025-06-22T10:07:55.324680 | openaibao@gmail.com | login | totp_qr_created
+2025-06-22T10:11:24.859351 | openaibao@gmail.com | login | totp_qr_created
+2025-06-22T10:12:16.606598 | openaibao@gmail.com | register | success
+2025-06-22T10:12:29.092950 | openaibao@gmail.com | login | totp_qr_created
+2025-06-22T10:13:12.691778 | openaibao@gmail.com | login | totp_qr_created
+2025-06-22T10:14:30.383413 | openaibao@gmail.com | send_otp_email | success
+2025-06-22T10:14:30.383697 | openaibao@gmail.com | login | otp_sent
+2025-06-22T10:14:49.930287 | openaibao@gmail.com | verify_otp | success
+2025-06-22T10:14:49.930655 | openaibao@gmail.com | login | success
+2025-06-22T10:21:07.954856 | openaibao@gmail.com | login | totp_ready
+2025-06-22T10:21:56.476688 | openaibao@gmail.com | login | totp_qr_created
+2025-06-22T10:22:18.801434 | openaibao@gmail.com | verify_totp | success
+2025-06-22T10:22:18.801606 | openaibao@gmail.com | login | success
+2025-06-22T10:22:43.562062 | openaibao@gmail.com | login | totp_ready
+2025-06-22T10:22:45.116362 | openaibao@gmail.com | verify_totp | fail: wrong_totp2025-07-02T14:21:07.296302 | hainguyen1852004@gmail.com | register | success
+2025-07-02T14:23:46.782806 | hainguyen1852004@gmail.com | send_otp_email | success
+2025-07-02T14:23:46.782806 | hainguyen1852004@gmail.com | login | otp_sent
+2025-07-02T14:24:01.844354 | hainguyen1852004@gmail.com | verify_otp | success
+2025-07-02T14:24:01.845358 | hainguyen1852004@gmail.com | login | success
+2025-07-02T16:10:13.493751 | hainguyen1852004@gmail.com | send_otp_email | success
+2025-07-02T16:10:13.493751 | hainguyen1852004@gmail.com | login | otp_sent
+2025-07-02T16:10:27.007139 | hainguyen1852004@gmail.com | verify_otp | success
+2025-07-02T16:10:27.007139 | hainguyen1852004@gmail.com | login | success
+2025-07-02T16:10:56.865343 | hainguyen1852004@gmail.com | rsa_keypair | created
+2025-07-02T16:15:08.180154 | hainguyen1852004@gmail.com | export_pub_qr | success
+2025-07-02T16:24:01.982585 | hainguyen1852004@gmail.com | send_otp_email | success
+2025-07-02T16:24:01.983616 | hainguyen1852004@gmail.com | login | otp_sent
+2025-07-02T16:24:18.496062 | hainguyen1852004@gmail.com | verify_otp | success
+2025-07-02T16:24:18.496062 | hainguyen1852004@gmail.com | login | success
+2025-07-02T16:32:34.579369 | baochode2004@gmail.com | register | success
+2025-07-02T16:33:00.487202 | baochode2004@gmail.com | send_otp_email | success
+2025-07-02T16:33:00.488229 | baochode2004@gmail.com | login | otp_sent
+2025-07-02T16:33:17.019383 | baochode2004@gmail.com | verify_otp | success
+2025-07-02T16:33:17.020394 | baochode2004@gmail.com | login | success
+2025-07-02T16:33:29.365317 | baochode2004@gmail.com | rsa_keypair | created
+2025-07-02T16:34:57.172214 | baochode2004@gmail.com | send_otp_email | success
+2025-07-02T16:34:57.173323 | baochode2004@gmail.com | login | otp_sent
+2025-07-02T16:35:07.806219 | baochode2004@gmail.com | verify_otp | success
+2025-07-02T16:35:07.807357 | baochode2004@gmail.com | login | success
+2025-07-02T16:36:36.227749 | baochode2004@gmail.com | export_pub_qr | success
+2025-07-02T16:38:23.187671 | hainguyen1852004@gmail.com | send_otp_email | success
+2025-07-02T16:38:23.187671 | hainguyen1852004@gmail.com | login | otp_sent
+2025-07-02T16:38:44.057851 | hainguyen1852004@gmail.com | verify_otp | success
+2025-07-02T16:38:44.058902 | hainguyen1852004@gmail.com | login | success
+2025-07-02T16:47:16.914245 | hainguyen1852004@gmail.com | file_encrypt | success | baochode2004@gmail.com
+2025-07-02T16:58:13.793120 | hainguyen1852004@gmail.com | send_otp_email | success
+2025-07-02T16:58:13.794152 | hainguyen1852004@gmail.com | login | otp_sent
+2025-07-02T16:58:35.630936 | hainguyen1852004@gmail.com | verify_otp | success
+2025-07-02T16:58:35.630936 | hainguyen1852004@gmail.com | login | success
+2025-07-02T16:59:14.042099 | hainguyen1852004@gmail.com | file_encrypt | success | baochode2004@gmail.com
+2025-07-02T17:37:18.338050 | hainguyen1852004@gmail.com | send_otp_email | success
+2025-07-02T17:37:18.338050 | hainguyen1852004@gmail.com | login | otp_sent
+2025-07-02T17:37:25.353417 | hainguyen1852004@gmail.com | verify_otp | success
+2025-07-02T17:37:25.354874 | hainguyen1852004@gmail.com | login | success
+2025-07-02T17:37:53.198583 | hainguyen1852004@gmail.com | file_encrypt | success | baochode2004@gmail.com
+2025-07-08T16:35:25.250214 | hainguyen1852004@gmail.com | send_otp_email | success
+2025-07-08T16:35:25.250214 | hainguyen1852004@gmail.com | login | otp_sent
+2025-07-08T16:35:34.280140 | hainguyen1852004@gmail.com | verify_otp | success
+2025-07-08T16:35:34.281689 | hainguyen1852004@gmail.com | login | success
+2025-07-08T16:41:04.064603 | hainguyen1852004@gmail.com | login | totp_qr_created
+2025-07-08T16:41:47.089873 | hainguyen1852004@gmail.com | verify_totp | success
+2025-07-08T16:41:47.089873 | hainguyen1852004@gmail.com | login | success
+2025-07-08T16:42:38.701486 | hainguyen1852004@gmail.com | file_encrypt | success | baochode2004@gmail.com
+2025-07-13T12:14:21.066750 | hainguyen1852004@gmail.com | login | totp_ready
+2025-07-13T12:14:32.790698 | hainguyen1852004@gmail.com | verify_totp | success
+2025-07-13T12:14:32.790698 | hainguyen1852004@gmail.com | login | success
+2025-07-13T12:17:12.038069 | hainguyen1852004@gmail.com | file_encrypt | success | baochode2004@gmail.com
+2025-07-13T12:38:08.339173 | hainguyen1852004@gmail.com | login | totp_ready
+2025-07-13T12:38:14.264407 | hainguyen1852004@gmail.com | verify_totp | success
+2025-07-13T12:38:14.264407 | hainguyen1852004@gmail.com | login | success
+2025-07-13T12:39:32.681135 | hainguyen1852004@gmail.com | login | totp_ready
+2025-07-13T12:39:36.549068 | hainguyen1852004@gmail.com | verify_totp | success
+2025-07-13T12:39:36.549068 | hainguyen1852004@gmail.com | login | success
+2025-07-13T12:40:05.669893 | hainguyen1852004@gmail.com | file_encrypt | success | baochode2004@gmail.com
+2025-07-13T12:40:49.321713 | baochode2004@gmail.com | login | fail: invalid_credentials
+2025-07-13T12:41:07.681340 | baochode2004@gmail.com | login | fail: invalid_credentials
+2025-07-13T12:41:37.046942 | baochode2004@gmail.com | login | fail: invalid_credentials
+2025-07-13T12:49:58.124827 | baochode2004@gmail.com | login | fail: invalid_credentials
+2025-07-13T12:50:05.585989 | asdasd | login | fail: invalid_credentials
+2025-07-13T12:50:40.759316 | baochode2004@gmail.com | register | success
+2025-07-13T12:51:00.454487 | baochode2004@gmail.com | send_otp_email | success
+2025-07-13T12:51:00.454487 | baochode2004@gmail.com | login | otp_sent
+2025-07-13T12:51:11.582203 | baochode2004@gmail.com | verify_otp | success
+2025-07-13T12:51:11.582203 | baochode2004@gmail.com | login | success
+2025-07-13T13:04:25.126704 | baochode2004@gmail.com | login | totp_qr_created
+2025-07-13T13:05:37.310891 | baochode2004@gmail.com | verify_totp | success
+2025-07-13T13:05:37.310891 | baochode2004@gmail.com | login | success
+2025-07-13T13:09:34.704950 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T13:09:43.649429 | baochode2004@gmail.com | verify_totp | success
+2025-07-13T13:09:43.650497 | baochode2004@gmail.com | login | success
+2025-07-13T13:12:48.492524 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T13:12:52.997325 | baochode2004@gmail.com | verify_totp | fail: wrong_totp
+2025-07-13T13:13:08.764808 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T13:13:13.413808 | baochode2004@gmail.com | verify_totp | success
+2025-07-13T13:13:13.413808 | baochode2004@gmail.com | login | success
+2025-07-13T13:19:22.071660 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T13:19:27.141932 | baochode2004@gmail.com | verify_totp | fail: wrong_totp
+2025-07-13T13:19:47.149204 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T13:19:52.836114 | baochode2004@gmail.com | verify_totp | fail: wrong_totp
+2025-07-13T13:20:06.079388 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T13:20:09.902443 | baochode2004@gmail.com | verify_totp | success
+2025-07-13T13:20:09.902443 | baochode2004@gmail.com | login | success
+2025-07-13T13:22:41.347123 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T13:22:44.470224 | baochode2004@gmail.com | verify_totp | success
+2025-07-13T13:22:44.470224 | baochode2004@gmail.com | login | success
+2025-07-13T13:43:11.808173 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T13:43:15.097708 | baochode2004@gmail.com | verify_totp | success
+2025-07-13T13:43:15.097708 | baochode2004@gmail.com | login | success
+2025-07-13T13:51:36.508499 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T13:51:39.178887 | baochode2004@gmail.com | verify_totp | success
+2025-07-13T13:51:39.179888 | baochode2004@gmail.com | login | success
+2025-07-13T13:52:10.347672 | baochode2004@gmail.com | rsa_keypair | created
+2025-07-13T13:53:06.257587 | hainguyen1852004@gmail.com | login | totp_ready
+2025-07-13T13:53:10.982971 | hainguyen1852004@gmail.com | verify_totp | success
+2025-07-13T13:53:10.982971 | hainguyen1852004@gmail.com | login | success
+2025-07-13T13:54:07.811863 | hainguyen1852004@gmail.com | file_encrypt | success | baochode2004@gmail.com
+2025-07-13T13:54:22.964768 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T13:54:27.878926 | baochode2004@gmail.com | verify_totp | fail: wrong_totp
+2025-07-13T13:54:40.053743 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T13:54:44.676277 | baochode2004@gmail.com | verify_totp | success
+2025-07-13T13:54:44.677280 | baochode2004@gmail.com | login | success
+2025-07-13T13:55:10.525602 | baochode2004@gmail.com | file_decrypt | success | hainguyen1852004@gmail.com
+2025-07-13T14:00:23.302603 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T14:00:27.710511 | baochode2004@gmail.com | verify_totp | fail: wrong_totp
+2025-07-13T14:00:39.187221 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T14:00:43.578756 | baochode2004@gmail.com | verify_totp | success
+2025-07-13T14:00:43.578756 | baochode2004@gmail.com | login | success
+2025-07-13T14:01:29.391113 | hainguyen1852004@gmail.com | login | totp_ready
+2025-07-13T14:01:34.351065 | hainguyen1852004@gmail.com | verify_totp | success
+2025-07-13T14:01:34.351065 | hainguyen1852004@gmail.com | login | success
+2025-07-13T14:02:12.214934 | hainguyen1852004@gmail.com | file_encrypt | success | baochode2004@gmail.com
+2025-07-13T14:02:29.871593 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T14:02:33.439158 | baochode2004@gmail.com | verify_totp | success
+2025-07-13T14:02:33.439158 | baochode2004@gmail.com | login | success
+2025-07-13T14:05:56.390444 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T14:06:01.146046 | baochode2004@gmail.com | verify_totp | success
+2025-07-13T14:06:01.146046 | baochode2004@gmail.com | login | success
+2025-07-13T14:06:20.315875 | baochode2004@gmail.com | file_decrypt | success | hainguyen1852004@gmail.com
+2025-07-13T14:14:06.023984 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T14:14:12.216957 | baochode2004@gmail.com | verify_totp | success
+2025-07-13T14:14:12.216957 | baochode2004@gmail.com | login | success
+2025-07-13T14:15:52.137220 | baochode2004@gmail.com | file_encrypt | success | hainguyen1852004@gmail.com
+2025-07-13T14:17:04.570327 | hainguyen1852004@gmail.com | login | totp_ready
+2025-07-13T14:17:10.178396 | hainguyen1852004@gmail.com | verify_totp | success
+2025-07-13T14:17:10.178396 | hainguyen1852004@gmail.com | login | success
+2025-07-13T14:18:11.131957 | hainguyen1852004@gmail.com | rsa_keypair | created
+2025-07-13T14:30:22.968718 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T14:30:31.387491 | baochode2004@gmail.com | verify_totp | success
+2025-07-13T14:30:31.388494 | baochode2004@gmail.com | login | success
+2025-07-13T14:31:03.524759 | baochode2004@gmail.com | file_encrypt | success | hainguyen1852004@gmail.com
+2025-07-13T14:31:21.235724 | hainguyen1852004@gmail.com | login | totp_ready
+2025-07-13T14:31:24.484977 | hainguyen1852004@gmail.com | verify_totp | fail: wrong_totp
+2025-07-13T14:31:37.954010 | hainguyen1852004@gmail.com | login | totp_ready
+2025-07-13T14:31:39.927846 | hainguyen1852004@gmail.com | verify_totp | fail: wrong_totp
+2025-07-13T14:32:00.620639 | hainguyen1852004@gmail.com | login | totp_ready
+2025-07-13T14:32:03.841257 | hainguyen1852004@gmail.com | verify_totp | success
+2025-07-13T14:32:03.841257 | hainguyen1852004@gmail.com | login | success
+2025-07-13T14:32:31.238868 | hainguyen1852004@gmail.com | file_decrypt | success | baochode2004@gmail.com
+2025-07-13T14:34:27.051763 | hainguyen1852004@gmail.com | file_encrypt | success | baochode2004@gmail.com
+2025-07-13T14:34:40.516830 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T14:34:43.270027 | baochode2004@gmail.com | verify_totp | success
+2025-07-13T14:34:43.270027 | baochode2004@gmail.com | login | success
+2025-07-13T14:35:20.297354 | baochode2004@gmail.com | file_decrypt | success | hainguyen1852004@gmail.com
+2025-07-13T14:58:06.580604 | baochode2004@gmail.com | file_sign | success
+2025-07-13T14:58:28.792211 | hainguyen1852004@gmail.com | login | totp_ready
+2025-07-13T14:58:33.748831 | hainguyen1852004@gmail.com | verify_totp | success
+2025-07-13T14:58:33.748831 | hainguyen1852004@gmail.com | login | success
+2025-07-13T15:02:00.769258 | hainguyen1852004@gmail.com | login | totp_ready
+2025-07-13T15:02:03.727774 | hainguyen1852004@gmail.com | verify_totp | success
+2025-07-13T15:02:03.727774 | hainguyen1852004@gmail.com | login | success
+2025-07-13T15:07:21.961004 | hainguyen1852004@gmail.com | login | totp_ready
+2025-07-13T15:07:23.934645 | hainguyen1852004@gmail.com | verify_totp | fail: wrong_totp
+2025-07-13T15:07:38.069777 | hainguyen1852004@gmail.com | login | totp_ready
+2025-07-13T15:07:41.071869 | hainguyen1852004@gmail.com | verify_totp | success
+2025-07-13T15:07:41.071869 | hainguyen1852004@gmail.com | login | success
+2025-07-13T15:07:58.318869 | hainguyen1852004@gmail.com | file_sign | success | test.sig
+2025-07-13T15:08:13.656135 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T15:08:16.203229 | baochode2004@gmail.com | verify_totp | success
+2025-07-13T15:08:16.204359 | baochode2004@gmail.com | login | success
+2025-07-13T15:08:45.622310 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T15:08:48.797098 | baochode2004@gmail.com | verify_totp | success
+2025-07-13T15:08:48.798201 | baochode2004@gmail.com | login | success
+2025-07-13T15:09:08.854189 | hainguyen1852004@gmail.com | sig_verify | success | test.txt
+2025-07-13T15:09:32.829103 |  | sig_verify | fail | test.txt
+2025-07-13T15:09:52.490829 | hainguyen1852004@gmail.com | sig_verify | success | test.txt
+2025-07-13T15:15:54.505090 | hainguyen1852004@gmail.com | login | totp_ready
+2025-07-13T15:15:59.077639 | hainguyen1852004@gmail.com | verify_totp | fail: wrong_totp
+2025-07-13T15:16:14.791854 | hainguyen1852004@gmail.com | login | totp_ready
+2025-07-13T15:16:17.098289 | hainguyen1852004@gmail.com | verify_totp | success
+2025-07-13T15:16:17.098289 | hainguyen1852004@gmail.com | login | success
+2025-07-13T15:29:06.128464 | hainguyen1852004@gmail.com | login | totp_ready
+2025-07-13T15:29:12.490012 | hainguyen1852004@gmail.com | verify_totp | success
+2025-07-13T15:29:12.490012 | hainguyen1852004@gmail.com | login | success
+2025-07-13T15:30:05.108454 | hainguyen1852004@gmail.com | file_encrypt | success | baochode2004@gmail.com
+2025-07-13T15:31:10.901382 | baochode2004@gmail.com | login | totp_ready
+2025-07-13T15:31:14.464791 | baochode2004@gmail.com | verify_totp | success
+2025-07-13T15:31:14.464791 | baochode2004@gmail.com | login | success
+2025-07-13T15:31:32.253679 | baochode2004@gmail.com | file_decrypt | success | hainguyen1852004@gmail.com
+2025-07-14T00:37:29.303537 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-14T00:37:33.623297 | hainguyen1852004@gmail.com | send_otp_email | success | 
+2025-07-14T00:37:33.624495 | hainguyen1852004@gmail.com | otp_sent | success | 
+2025-07-14T00:37:43.148973 | hainguyen1852004@gmail.com | verify_otp | success | 
+2025-07-14T00:37:43.151352 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-14T01:13:04.497459 | hainguyen1852004@gmail.com | verify_password | success
+2025-07-14T01:13:08.914526 | hainguyen1852004@gmail.com | send_otp_email | success
+2025-07-14T01:13:08.914526 | hainguyen1852004@gmail.com | login | otp_sent
+2025-07-14T01:13:19.002903 | hainguyen1852004@gmail.com | verify_otp | success
+2025-07-14T01:13:19.002903 | hainguyen1852004@gmail.com | login | success
+2025-07-14T01:13:19.005767 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-14T01:13:45.762258 | hainguyen1852004@gmail.com | verify_password | success
+2025-07-14T01:13:45.762258 | hainguyen1852004@gmail.com | login | totp_ready
+2025-07-14T01:13:52.285361 | hainguyen1852004@gmail.com | verify_totp | success
+2025-07-14T01:13:52.286635 | hainguyen1852004@gmail.com | login | success
+2025-07-14T01:13:52.287759 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-14T01:15:36.317973 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-14T01:15:36.317973 | lqd.a1k21.hotranhainguyen@gmail.com | register | success | 
+2025-07-14T01:15:50.827564 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success
+2025-07-14T01:15:54.039548 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success
+2025-07-14T01:15:54.039548 | lqd.a1k21.hotranhainguyen@gmail.com | login | otp_sent
+2025-07-14T01:16:10.005925 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success
+2025-07-14T01:16:10.007048 | lqd.a1k21.hotranhainguyen@gmail.com | login | success
+2025-07-14T01:16:10.008386 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-14T01:38:39.316899 | hainguyen1852004@gmail.com | register | fail: exists | 
+2025-07-14T01:39:10.419218 | 1farm3401@gmail.com | register | fail: weak_pw | 
+2025-07-14T01:39:26.339086 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-14T01:39:34.519626 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-14T01:39:34.519626 | hainguyen1852004@gmail.com | login | success | 
+2025-07-14T01:39:34.520629 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-14T01:39:44.177338 | hainguyen1852004@gmail.com | rsa_keypair | removed | 
+2025-07-14T01:40:03.957571 | hainguyen1852004@gmail.com | rsa_keypair | created | 
+2025-07-14T01:40:46.821471 | hainguyen1852004@gmail.com | file_encrypt | success | baochode2004@gmail.com
+2025-07-14T01:43:00.328794 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-14T01:43:00.330001 | hainguyen1852004@gmail.com | update_info | success | 
+2025-07-14T02:07:33.042664 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-14T02:07:38.222321 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-14T02:07:38.223450 | hainguyen1852004@gmail.com | login | success | 
+2025-07-14T02:07:38.224473 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-14T02:08:04.301045 | hainguyen1852004@gmail.com | create_qr_public_key | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\hainguyen1852004@gmail.com_public_key_qr.png | 
+2025-07-14T02:08:41.941749 | hainguyen1852004@gmail.com | import_qr_public_key | hainguyen1852004@gmail.com | 
+2025-07-14T21:23:12.086948 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-14T21:23:15.423946 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-14T21:23:15.423946 | hainguyen1852004@gmail.com | login | success | 
+2025-07-14T21:23:15.425350 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-14T21:23:42.071035 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-14T21:23:45.290918 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-14T21:23:45.290918 | hainguyen1852004@gmail.com | login | success | 
+2025-07-14T21:23:45.293387 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-14T21:23:54.634801 | hainguyen1852004@gmail.com | rsa_keypair | created | 
+2025-07-14T21:24:40.213379 | hainguyen1852004@gmail.com | create_qr_public_key | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\hainguyen1852004@gmail.com_public_key_qr.png | 
+2025-07-14T21:25:27.193972 | hainguyen1852004@gmail.com | import_qr_public_key | duplicate | 
+2025-07-14T21:25:35.470429 | hainguyen1852004@gmail.com | rsa_keypair | removed | 
+2025-07-14T21:25:51.575413 | hainguyen1852004@gmail.com | import_qr_public_key | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\keys\hainguyen1852004@gmail.com_public.pem | 
+2025-07-14T21:27:33.629514 | E:\VS code | file_encrypt | success | hainguyen1852004@gmail.com
+2025-07-14T21:35:52.272913 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-14T21:35:55.565331 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-14T21:35:55.566754 | hainguyen1852004@gmail.com | login | success | 
+2025-07-14T21:35:55.567757 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-14T21:42:05.383031 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-14T21:42:08.943091 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-14T21:42:08.944441 | hainguyen1852004@gmail.com | login | success | 
+2025-07-14T21:42:08.944441 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-14T21:42:37.847169 | hainguyen1852004@gmail.com | file_encrypt | success | baochode2004@gmail.com
+2025-07-14T21:43:36.628115 | baochode2004@gmail.com | verify_password | success | 
+2025-07-14T21:43:41.429337 | baochode2004@gmail.com | verify_totp | success | 
+2025-07-14T21:43:41.429337 | baochode2004@gmail.com | login | success | 
+2025-07-14T21:43:41.430814 | baochode2004@gmail.com | successful_login | reset | 
+2025-07-14T21:44:30.141051 | baochode2004@gmail.com | file_decrypt | success | hainguyen1852004@gmail.com
+2025-07-14T21:50:04.888099 | baochode2004@gmail.com | verify_password | success | 
+2025-07-14T21:50:09.200744 | baochode2004@gmail.com | verify_totp | success | 
+2025-07-14T21:50:09.200744 | baochode2004@gmail.com | login | success | 
+2025-07-14T21:50:09.201978 | baochode2004@gmail.com | successful_login | reset | 
+2025-07-14T21:50:48.158211 | baochode2004@gmail.com | file_decrypt | success | hainguyen1852004@gmail.com
+2025-07-14T21:51:51.383705 | baochode2004@gmail.com | file_encrypt | success | hainguyen1852004@gmail.com
+2025-07-14T21:54:10.592511 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-14T21:54:14.829656 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-14T21:54:14.830712 | hainguyen1852004@gmail.com | login | success | 
+2025-07-14T21:54:14.831921 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-14T22:15:48.873453 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-14T22:15:51.969494 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-14T22:15:51.970727 | hainguyen1852004@gmail.com | login | success | 
+2025-07-14T22:15:51.972149 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-14T22:16:19.153477 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-14T22:16:22.536826 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-14T22:16:22.536826 | hainguyen1852004@gmail.com | login | success | 
+2025-07-14T22:16:22.538329 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-14T22:16:28.570966 | hainguyen1852004@gmail.com | rsa_keypair | created | 
+2025-07-14T22:41:02.821072 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-14T22:41:06.304362 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-14T22:41:06.304362 | hainguyen1852004@gmail.com | login | success | 
+2025-07-14T22:41:06.305511 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-14T22:43:31.629094 | hainguyen1852004@gmail.com | file_encrypt | success | baochode2004@gmail.com
+2025-07-14T22:43:46.423502 | baochode2004@gmail.com | verify_password | success | 
+2025-07-14T22:43:49.303537 | baochode2004@gmail.com | verify_totp | success | 
+2025-07-14T22:43:49.303537 | baochode2004@gmail.com | login | success | 
+2025-07-14T22:43:49.304612 | baochode2004@gmail.com | successful_login | reset | 
+2025-07-14T22:44:04.285903 | baochode2004@gmail.com | file_decrypt | success | hainguyen1852004@gmail.com
+2025-07-14T22:45:44.425960 | baochode2004@gmail.com | file_encrypt | success | hainguyen1852004@gmail.com
+2025-07-14T22:45:58.106414 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-14T22:46:02.734979 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-14T22:46:02.734979 | hainguyen1852004@gmail.com | login | success | 
+2025-07-14T22:46:02.736026 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-14T22:46:20.315997 | hainguyen1852004@gmail.com | file_decrypt | success | baochode2004@gmail.com
+2025-07-14T22:49:06.109353 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-14T22:49:09.021292 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-14T22:49:09.021292 | hainguyen1852004@gmail.com | login | success | 
+2025-07-14T22:49:09.022295 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-14T22:49:30.480324 | hainguyen1852004@gmail.com | file_sign | success | test.sig
+2025-07-14T22:50:14.701554 | hainguyen1852004@gmail.com | sig_verify | success | test.txt
+2025-07-14T22:50:29.711966 | baochode2004@gmail.com | verify_password | success | 
+2025-07-14T22:50:32.277056 | baochode2004@gmail.com | verify_totp | success | 
+2025-07-14T22:50:32.277056 | baochode2004@gmail.com | login | success | 
+2025-07-14T22:50:32.278360 | baochode2004@gmail.com | successful_login | reset | 
+2025-07-14T22:50:40.502795 | hainguyen1852004@gmail.com | sig_verify | success | test.txt
+2025-07-14T22:52:54.346418 | baochode2004@gmail.com | verify_password | success | 
+2025-07-14T22:52:54.347504 | baochode2004@gmail.com | update_info | success | 
+2025-07-14T22:53:10.060041 | baochode2004@gmail.com | verify_password | success | 
+2025-07-14T22:53:27.190096 | baochode2004@gmail.com | verify_password | success | 
+2025-07-14T22:53:27.280734 | baochode2004@gmail.com | change_passphrase | success | 
+2025-07-14T22:53:51.188288 | baochode2004@gmail.com | verify_password | fail | 
+2025-07-14T22:53:51.189296 | baochode2004@gmail.com | failed_login | attempt_1 | 
+2025-07-14T22:54:02.520901 | baochode2004@gmail.com | verify_password | success | 
+2025-07-14T22:54:06.265535 | baochode2004@gmail.com | verify_totp | success | 
+2025-07-14T22:54:06.266666 | baochode2004@gmail.com | login | success | 
+2025-07-14T22:54:06.267915 | baochode2004@gmail.com | successful_login | reset | 
+2025-07-14T22:54:13.385388 | baochode2004@gmail.com | verify_password | success | 
+2025-07-14T22:54:13.388027 | baochode2004@gmail.com | rsa_keypair | removed | 
+2025-07-14T22:54:13.388027 | baochode2004@gmail.com | delete_account | success | 
+2025-07-14T22:58:35.681035 | hainguyen1852004@gmail.com | verify_password | fail | 
+2025-07-14T22:58:35.681035 | hainguyen1852004@gmail.com | failed_login | attempt_1 | 
+2025-07-14T22:58:41.374421 | hainguyen1852004@gmail.com | verify_password | fail | 
+2025-07-14T22:58:41.374421 | hainguyen1852004@gmail.com | failed_login | attempt_2 | 
+2025-07-14T22:58:52.429642 | hainguyen1852004@gmail.com | verify_password | fail | 
+2025-07-14T22:58:52.431040 | hainguyen1852004@gmail.com | failed_login | attempt_3 | 
+2025-07-14T22:58:59.786441 | hainguyen1852004@gmail.com | verify_password | fail | 
+2025-07-14T22:58:59.787568 | hainguyen1852004@gmail.com | failed_login | attempt_4 | 
+2025-07-14T22:59:07.250331 | hainguyen1852004@gmail.com | verify_password | fail | 
+2025-07-14T22:59:07.251661 | hainguyen1852004@gmail.com | account_locked | until_2025-07-14T23:04:07.250331 | 
+2025-07-14T23:35:48.962738 | baochode2004@gmail.com | rsa_keypair | created | 
+2025-07-14T23:35:48.963737 | baochode2004@gmail.com | register | success | 
+2025-07-14T23:35:51.856391 | baochode2004@gmail.com | generate_recovery_code | success | 
+2025-07-14T23:35:51.963789 | baochode2004@gmail.com | create_recovery_backup | success | 
+2025-07-14T23:36:19.296707 | baochode2004@gmail.com | verify_password | success | 
+2025-07-14T23:36:19.335601 | baochode2004@gmail.com | totp_qr_created | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\baochode2004@gmail.com_totp_qr.png | 
+2025-07-14T23:37:12.835196 | baochode2004@gmail.com | verify_totp | success | 
+2025-07-14T23:37:12.835196 | baochode2004@gmail.com | login | success | 
+2025-07-14T23:37:12.837703 | baochode2004@gmail.com | successful_login | reset | 
+2025-07-14T23:37:46.322280 | baochode2004@gmail.com | rsa_keypair | created | 
+2025-07-14T23:38:41.322357 | baochode2004@gmail.com | generate_recovery_code | success | 
+2025-07-14T23:38:41.417319 | baochode2004@gmail.com | create_recovery_backup | success | 
+2025-07-14T23:48:22.519015 | baochode2004@gmail.com | verify_password | success | 
+2025-07-14T23:48:26.086411 | baochode2004@gmail.com | verify_totp | success | 
+2025-07-14T23:48:26.087597 | baochode2004@gmail.com | login | success | 
+2025-07-14T23:48:26.088889 | baochode2004@gmail.com | successful_login | reset | 
+2025-07-14T23:48:32.719873 | baochode2004@gmail.com | verify_password | success | 
+2025-07-14T23:48:32.730492 | baochode2004@gmail.com | rsa_keypair | removed | 
+2025-07-14T23:48:32.730492 | baochode2004@gmail.com | delete_account | success | 
+2025-07-14T23:49:00.768701 | baochode2004@gmail.com | rsa_keypair | created | 
+2025-07-14T23:49:00.768701 | baochode2004@gmail.com | register | success | 
+2025-07-14T23:49:00.781216 | baochode2004@gmail.com | generate_recovery_code | success | 
+2025-07-14T23:49:00.886975 | baochode2004@gmail.com | create_recovery_backup | success | 
+2025-07-14T23:50:17.414434 | baochode2004@gmail.com | verify_password | success | 
+2025-07-14T23:50:20.835832 | baochode2004@gmail.com | send_otp_email | success | 
+2025-07-14T23:50:29.048944 | baochode2004@gmail.com | verify_otp | success | 
+2025-07-14T23:50:29.050096 | baochode2004@gmail.com | login | success | 
+2025-07-14T23:50:29.051479 | baochode2004@gmail.com | successful_login | reset | 
+2025-07-15T00:07:28.786345 | baochode2004@gmail.com | reset_password_with_recovery | success | 
+2025-07-15T00:07:28.890361 | baochode2004@gmail.com | recover_private_key | success | 
+2025-07-15T00:20:23.247471 | baochode2004@gmail.com | reset_password_with_recovery | success | 
+2025-07-15T00:20:23.355626 | baochode2004@gmail.com | recover_private_key | success | 
+2025-07-15T00:25:37.912709 | baochode2004@gmail.com | reset_password_with_recovery | success | 
+2025-07-15T00:25:38.007591 | baochode2004@gmail.com | recover_private_key | success | 
+2025-07-15T00:32:50.760564 | baochode2004@gmail.com | verify_password | success | 
+2025-07-15T00:32:54.859229 | baochode2004@gmail.com | send_otp_email | success | 
+2025-07-15T00:33:03.020916 | baochode2004@gmail.com | verify_otp | success | 
+2025-07-15T00:33:03.022225 | baochode2004@gmail.com | login | success | 
+2025-07-15T00:33:03.023516 | baochode2004@gmail.com | successful_login | reset | 
+2025-07-15T00:33:15.740366 | baochode2004@gmail.com | verify_password | success | 
+2025-07-15T00:33:15.743291 | baochode2004@gmail.com | rsa_keypair | removed | 
+2025-07-15T00:33:15.743291 | baochode2004@gmail.com | delete_account | success | 
+2025-07-15T00:33:15.745951 | baochode2004@gmail.com | delete_recovery_code | success | 
+2025-07-15T00:33:15.745951 | baochode2004@gmail.com | delete_recovery_backup | success | 
+2025-07-15T00:47:17.764292 | baochode2004@gmail.com | rsa_keypair | created | 
+2025-07-15T00:47:17.764292 | baochode2004@gmail.com | register | success | 
+2025-07-15T00:47:17.765775 | baochode2004@gmail.com | generate_recovery_code | success | 
+2025-07-15T00:47:17.870165 | baochode2004@gmail.com | create_recovery_backup | success | 
+2025-07-15T01:20:04.480056 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T01:20:05.892858 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T01:20:10.932542 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T01:20:10.932542 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T01:20:10.943317 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T01:21:11.004284 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T01:21:15.042228 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T01:21:15.042228 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T01:21:15.043721 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T01:29:17.050299 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T01:29:20.681767 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T01:29:20.681767 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T01:29:20.683781 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T01:31:08.527680 | hainguyen1852004@gmail.com | verify_password | fail | 
+2025-07-15T01:31:08.528916 | hainguyen1852004@gmail.com | failed_login | attempt_1 | 
+2025-07-15T01:31:19.100052 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T01:31:22.529593 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T01:31:22.529593 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T01:31:22.531793 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T01:31:27.039550 | hainguyen1852004@gmail.com | list_users | success | 
+2025-07-15T01:32:04.019824 | hainguyen1852004@gmail.com | lock_user_lqd.a1k21.hotranhainguyen@gmail.com | success | 
+2025-07-15T01:32:23.446099 | hainguyen1852004@gmail.com | view_logs_50 | success | 
+2025-07-15T01:32:34.390508 | hainguyen1852004@gmail.com | get_stats | success | 
+2025-07-15T01:32:56.534252 | hainguyen1852004@gmail.com | promote_admin_baochode2004@gmail.com | success | 
+2025-07-15T01:33:23.314249 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T01:33:23.315253 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_1 | 
+2025-07-15T01:33:36.918033 | baochode2004@gmail.com | verify_password | fail | 
+2025-07-15T01:33:36.918033 | baochode2004@gmail.com | failed_login | attempt_1 | 
+2025-07-15T01:33:53.579758 | baochode2004@gmail.com | verify_password | fail | 
+2025-07-15T01:33:53.579758 | baochode2004@gmail.com | failed_login | attempt_2 | 
+2025-07-15T01:34:08.758881 | baochode2004@gmail.com | verify_password | fail | 
+2025-07-15T01:34:08.758881 | baochode2004@gmail.com | failed_login | attempt_3 | 
+2025-07-15T01:35:41.659467 | baochode2004@gmail.com | verify_password | success | 
+2025-07-15T01:35:45.423046 | baochode2004@gmail.com | send_otp_email | success | 
+2025-07-15T01:35:52.219282 | baochode2004@gmail.com | verify_otp | success | 
+2025-07-15T01:35:52.220403 | baochode2004@gmail.com | login | success | 
+2025-07-15T01:35:52.221849 | baochode2004@gmail.com | successful_login | reset | 
+2025-07-15T01:35:58.498138 | baochode2004@gmail.com | get_stats | success | 
+2025-07-15T01:39:44.840191 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T01:39:48.877599 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T01:39:48.877599 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T01:39:48.879061 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T01:40:05.553293 | hainguyen1852004@gmail.com | unlock_user_lqd.a1k21.hotranhainguyen@gmail.com | success | 
+2025-07-15T01:40:23.075016 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T01:40:23.075016 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_2 | 
+2025-07-15T01:40:38.885287 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T01:40:42.335675 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T01:40:50.246202 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success | 
+2025-07-15T01:40:50.246202 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T01:40:50.248553 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T01:53:02.226031 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T01:53:12.334094 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T01:53:33.207888 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success | 
+2025-07-15T01:53:33.209359 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T01:53:33.210769 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T01:53:46.586355 | lqd.a1k21.hotranhainguyen@gmail.com | create_qr_public_key | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\lqd.a1k21.hotranhainguyen@gmail.com_public_key_qr.png | 
+2025-07-15T01:54:00.548829 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | removed | 
+2025-07-15T01:54:45.097649 | lqd.a1k21.hotranhainguyen@gmail.com | import_qr_public_key | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\keys\lqd.a1k21.hotranhainguyen@gmail.com_public.pem | 
+2025-07-15T01:55:10.146045 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-15T01:55:29.978014 | lqd.a1k21.hotranhainguyen@gmail.com | import_qr_public_key | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\keys\lqd.a1k21.hotranhainguyen@gmail.com_public.pem | 
+2025-07-15T12:50:43.916528 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T12:50:44.056323 | lqd.a1k21.hotranhainguyen@gmail.com | totp_qr_created | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\lqd.a1k21.hotranhainguyen@gmail.com_totp_qr.png | 
+2025-07-15T12:51:34.217667 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T12:51:37.934579 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T12:51:47.537067 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success | 
+2025-07-15T12:51:47.538070 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T12:51:47.539148 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T12:51:54.771995 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T12:51:54.774873 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | removed | 
+2025-07-15T12:51:54.776355 | lqd.a1k21.hotranhainguyen@gmail.com | delete_account | success | 
+2025-07-15T12:52:14.693424 | baochode2004@gmail.com | verify_password | success | 
+2025-07-15T12:52:17.770878 | baochode2004@gmail.com | send_otp_email | success | 
+2025-07-15T12:52:25.912158 | baochode2004@gmail.com | verify_otp | fail: wrong | 
+2025-07-15T12:52:25.912158 | baochode2004@gmail.com | failed_login | attempt_1 | 
+2025-07-15T12:52:39.554377 | baochode2004@gmail.com | verify_password | success | 
+2025-07-15T12:52:43.050441 | baochode2004@gmail.com | send_otp_email | success | 
+2025-07-15T12:52:53.026591 | baochode2004@gmail.com | verify_otp | success | 
+2025-07-15T12:52:53.027927 | baochode2004@gmail.com | login | success | 
+2025-07-15T12:52:53.029429 | baochode2004@gmail.com | successful_login | reset | 
+2025-07-15T12:53:01.758585 | baochode2004@gmail.com | verify_password | success | 
+2025-07-15T12:53:01.768450 | baochode2004@gmail.com | rsa_keypair | removed | 
+2025-07-15T12:53:01.769722 | baochode2004@gmail.com | delete_account | success | 
+2025-07-15T12:53:01.769722 | baochode2004@gmail.com | delete_recovery_code | success | 
+2025-07-15T12:53:01.781450 | baochode2004@gmail.com | delete_recovery_backup | success | 
+2025-07-15T12:53:38.136238 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T12:53:41.399042 | hainguyen1852004@gmail.com | send_otp_email | success | 
+2025-07-15T12:53:53.386104 | hainguyen1852004@gmail.com | verify_otp | success | 
+2025-07-15T12:53:53.387407 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T12:53:53.389410 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T12:53:57.849221 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T12:53:57.859809 | hainguyen1852004@gmail.com | rsa_keypair | removed | 
+2025-07-15T12:53:57.859809 | hainguyen1852004@gmail.com | delete_account | success | 
+2025-07-15T12:54:35.962950 | hainguyen1852004@gmail.com | rsa_keypair | created | 
+2025-07-15T12:54:35.963950 | hainguyen1852004@gmail.com | register | success | 
+2025-07-15T12:54:35.963950 | hainguyen1852004@gmail.com | generate_recovery_code | success | 
+2025-07-15T12:54:36.069702 | hainguyen1852004@gmail.com | create_recovery_backup | success | 
+2025-07-15T12:55:33.502038 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T12:55:33.526144 | hainguyen1852004@gmail.com | totp_qr_created | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\hainguyen1852004@gmail.com_totp_qr.png | 
+2025-07-15T12:56:00.926258 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T12:56:00.926258 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T12:56:00.928574 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T12:56:08.761359 | hainguyen1852004@gmail.com | get_stats | success | 
+2025-07-15T13:00:51.816536 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-15T13:00:51.817855 | lqd.a1k21.hotranhainguyen@gmail.com | register | success | 
+2025-07-15T13:00:51.826725 | lqd.a1k21.hotranhainguyen@gmail.com | generate_recovery_code | success | 
+2025-07-15T13:00:51.930905 | lqd.a1k21.hotranhainguyen@gmail.com | create_recovery_backup | success | 
+2025-07-15T13:01:09.365346 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T13:01:09.382703 | lqd.a1k21.hotranhainguyen@gmail.com | totp_qr_created | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\lqd.a1k21.hotranhainguyen@gmail.com_totp_qr.png | 
+2025-07-15T13:01:23.123519 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T13:01:23.123519 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T13:01:23.125964 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T13:01:34.290786 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T13:01:38.076770 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T13:01:38.078089 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T13:01:38.079091 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T13:01:56.111782 | hainguyen1852004@gmail.com | promote_admin_lqd.a1k21.hotranhainguyen@gmail.com | success | 
+2025-07-15T14:17:37.309811 |  | verify_password | fail | 
+2025-07-15T14:17:37.311299 |  | failed_login | attempt_1 | 
+2025-07-15T14:17:51.849876 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T14:17:55.452927 | hainguyen1852004@gmail.com | send_otp_email | success | 
+2025-07-15T14:18:07.356307 | hainguyen1852004@gmail.com | verify_otp | success | 
+2025-07-15T14:18:07.357308 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T14:18:07.366619 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T14:53:42.616403 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T14:53:46.098629 | hainguyen1852004@gmail.com | send_otp_email | success | 
+2025-07-15T14:53:55.462002 | hainguyen1852004@gmail.com | verify_otp | success | 
+2025-07-15T14:53:55.463205 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T14:53:55.465252 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T14:54:03.037673 | hainguyen1852004@gmail.com | get_stats | success | 
+2025-07-15T14:54:09.393381 | hainguyen1852004@gmail.com | list_users | success | 
+2025-07-15T15:11:06.036082 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T15:13:31.112860 | haiasd | verify_password | fail | 
+2025-07-15T15:13:31.113925 | haiasd | failed_login | attempt_1 | 
+2025-07-15T15:33:41.297906 | baochode2004@gmail.com | verify_password | fail | 
+2025-07-15T15:33:41.297906 | baochode2004@gmail.com | failed_login | attempt_1 | 
+2025-07-15T15:33:56.819662 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T15:34:00.457119 | hainguyen1852004@gmail.com | send_otp_email | success | 
+2025-07-15T15:34:14.347880 | hainguyen1852004@gmail.com | verify_otp | success | 
+2025-07-15T15:34:14.349293 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T15:34:14.350565 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T15:34:21.210213 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T15:34:37.026115 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T15:34:37.026115 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T15:34:37.029610 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T15:34:58.368638 | hainguyen1852004@gmail.com | rsa_keypair | created | 
+2025-07-15T15:40:18.551999 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T15:40:30.935012 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T15:40:30.935012 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T15:40:30.936087 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T15:41:01.475077 | hainguyen1852004@gmail.com | rsa_keypair | created | 
+2025-07-15T15:42:26.256496 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T15:42:32.633784 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T15:42:32.635275 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T15:42:32.636780 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T15:42:41.519465 | hainguyen1852004@gmail.com | rsa_keypair | created | 
+2025-07-15T15:46:04.503288 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T15:46:10.161057 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T15:46:10.161057 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T15:46:10.165069 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T15:47:34.617951 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T15:47:41.792311 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T15:47:41.793720 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T15:47:41.806525 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T15:50:05.824239 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T15:50:11.935166 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T15:50:11.935670 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T15:50:11.938177 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T15:50:20.925455 | hainguyen1852004@gmail.com | rsa_keypair | created | 
+2025-07-15T15:50:35.111785 | hainguyen1852004@gmail.com | rsa_keypair | removed | 
+2025-07-15T15:50:48.475292 | hainguyen1852004@gmail.com | rsa_keypair | created | 
+2025-07-15T15:50:55.034053 | hainguyen1852004@gmail.com | create_qr_public_key | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\hainguyen1852004@gmail.com_public_key_qr.png | 
+2025-07-15T15:55:12.853369 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T15:55:53.317954 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T15:55:53.317954 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T15:55:53.320254 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T15:56:18.371373 | hainguyen1852004@gmail.com | create_qr_public_key | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\hainguyen1852004@gmail.com_public_key_qr.png | 
+2025-07-15T15:56:27.309092 | hainguyen1852004@gmail.com | import_qr_public_key | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\keys\hainguyen1852004@gmail.com_public.pem | 
+2025-07-15T15:58:05.016928 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T15:58:10.659108 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T15:58:10.660582 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T15:58:10.662589 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T15:58:15.977738 | hainguyen1852004@gmail.com | import_qr_public_key | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\keys\hainguyen1852004@gmail.com_public.pem | 
+2025-07-15T15:58:40.478876 | hainguyen1852004@gmail.com | file_encrypt | success | lqd.a1k21.hotranhainguyen@gmail.com
+2025-07-15T16:46:46.033551 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T16:46:52.963464 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T16:46:52.963464 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T16:46:52.967265 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T16:47:49.515183 | hainguyen1852004@gmail.com | file_encrypt | success | lqd.a1k21.hotranhainguyen@gmail.com
+2025-07-15T16:49:18.940510 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T16:49:24.191843 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T16:49:24.192846 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T16:49:24.193846 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T16:53:01.229189 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T16:53:07.240330 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T16:53:07.240330 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T16:53:07.241643 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T16:53:48.286703 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T16:53:53.378331 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T16:53:53.378331 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T16:53:53.380772 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T16:54:23.582613 | lqd.a1k21.hotranhainguyen@gmail.com | file_decrypt | success | hainguyen1852004@gmail.com
+2025-07-15T16:55:36.491771 | lqd.a1k21.hotranhainguyen@gmail.com | file_decrypt | success | hainguyen1852004@gmail.com
+2025-07-15T16:57:16.324070 | lqd.a1k21.hotranhainguyen@gmail.com | file_encrypt | success | hainguyen1852004@gmail.com
+2025-07-15T16:58:28.048342 | lqd.a1k21.hotranhainguyen@gmail.com | file_encrypt | success | hainguyen1852004@gmail.com
+2025-07-15T16:58:46.597659 | lqd.a1k21.hotranhainguyen@gmail.com | list_users | success | 
+2025-07-15T16:59:27.016373 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T16:59:31.682454 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T16:59:31.682454 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T16:59:31.683880 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T16:59:48.823287 | hainguyen1852004@gmail.com | file_decrypt | success | lqd.a1k21.hotranhainguyen@gmail.com
+2025-07-15T17:00:14.381411 | hainguyen1852004@gmail.com | file_sign | success | test.sig
+2025-07-15T17:00:35.257309 | hainguyen1852004@gmail.com | sig_verify | success | test.txt
+2025-07-15T17:03:44.888538 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T17:03:51.584018 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T17:03:51.584018 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T17:03:51.586324 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T17:04:11.076866 | hainguyen1852004@gmail.com | file_sign | success | test.sig
+2025-07-15T17:07:22.366310 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T17:07:29.340243 | hainguyen1852004@gmail.com | verify_totp | fail: wrong | 
+2025-07-15T17:07:29.341258 | hainguyen1852004@gmail.com | failed_login | attempt_1 | 
+2025-07-15T17:07:31.612326 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T17:07:37.223956 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T17:07:37.223956 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T17:07:37.225450 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T17:07:59.176153 | hainguyen1852004@gmail.com | file_sign | success | test.sig
+2025-07-15T17:08:21.981610 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:08:27.520034 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T17:08:27.520034 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T17:08:27.521247 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T17:08:35.976800 | hainguyen1852004@gmail.com | sig_verify | success | test.txt
+2025-07-15T17:08:51.112039 |  | sig_verify | fail | test.txt
+2025-07-15T17:10:33.763373 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T17:10:40.106352 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T17:10:40.106352 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T17:10:40.108481 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T17:11:05.969384 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T17:11:05.970425 | hainguyen1852004@gmail.com | update_info | success | 
+2025-07-15T17:12:01.797710 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T17:12:01.798713 | hainguyen1852004@gmail.com | update_info | success | 
+2025-07-15T17:12:15.741481 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T17:12:15.742671 | hainguyen1852004@gmail.com | update_info | success | 
+2025-07-15T17:14:36.843001 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:14:45.232441 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T17:14:45.232441 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T17:14:45.233444 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T17:17:17.218101 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:17:23.507391 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T17:17:23.507391 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T17:17:23.509678 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T17:17:46.444343 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:17:46.445553 | lqd.a1k21.hotranhainguyen@gmail.com | update_info | success | 
+2025-07-15T17:18:06.888964 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:18:06.983593 | lqd.a1k21.hotranhainguyen@gmail.com | change_passphrase | success | 
+2025-07-15T17:20:21.113217 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T17:20:21.113217 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_1 | 
+2025-07-15T17:20:28.768020 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:20:35.753840 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T17:20:35.754842 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T17:20:35.756310 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T17:20:55.213310 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:21:34.650594 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T17:21:34.650594 | lqd.a1k21.hotranhainguyen@gmail.com | change_passphrase | fail: bad_old | 
+2025-07-15T17:21:49.486000 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:22:02.653314 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:22:07.871357 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T17:22:07.871357 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T17:22:07.872357 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T17:23:26.717729 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:23:33.883129 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T17:23:33.883129 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_1 | 
+2025-07-15T17:23:44.874354 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:23:50.375885 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T17:23:50.375885 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T17:23:50.377351 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T17:34:23.863821 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T17:34:23.865069 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_1 | 
+2025-07-15T17:34:43.132039 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:34:50.084760 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T17:34:50.085894 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T17:34:50.087256 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T17:35:11.530377 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:35:30.873509 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | removed | 
+2025-07-15T17:35:45.845478 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-15T17:36:09.365708 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T17:36:09.366710 | lqd.a1k21.hotranhainguyen@gmail.com | change_passphrase | fail: bad_old | 
+2025-07-15T17:36:23.685807 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T17:36:23.685807 | lqd.a1k21.hotranhainguyen@gmail.com | change_passphrase | fail: bad_old | 
+2025-07-15T17:36:57.360717 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T17:36:57.360717 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_1 | 
+2025-07-15T17:37:21.608230 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:37:25.175091 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T17:37:25.175091 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T17:37:25.177646 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T17:37:38.314690 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:38:14.873241 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | removed | 
+2025-07-15T17:38:44.568193 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T17:38:44.569235 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_1 | 
+2025-07-15T17:38:54.074624 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:38:57.294946 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | fail: wrong | 
+2025-07-15T17:38:57.296015 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_2 | 
+2025-07-15T17:39:10.457661 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:39:13.690956 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T17:39:13.691960 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T17:39:13.693259 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T17:39:53.349708 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T17:39:53.350713 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_1 | 
+2025-07-15T17:40:10.930613 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:40:16.143483 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T17:40:16.144484 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T17:40:16.146827 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T17:40:30.674591 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:40:41.962174 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T17:40:41.963189 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_1 | 
+2025-07-15T17:41:05.549026 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:41:09.926443 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T17:41:09.927463 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T17:41:09.928862 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T17:41:26.702585 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-15T17:41:39.878192 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:44:16.826753 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T17:44:16.827756 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_1 | 
+2025-07-15T17:44:23.852622 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:44:28.213311 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T17:44:28.213311 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T17:44:28.215778 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T17:44:35.549122 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | removed | 
+2025-07-15T17:44:45.832803 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-15T17:45:00.159573 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:49:21.699911 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T17:49:21.699911 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_1 | 
+2025-07-15T17:49:29.512528 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T17:49:29.512528 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_2 | 
+2025-07-15T17:49:39.683126 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:49:44.588762 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T17:49:44.588762 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T17:49:44.590901 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T17:49:54.807724 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | removed | 
+2025-07-15T17:50:06.369129 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-15T17:50:22.840295 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:50:22.944274 | lqd.a1k21.hotranhainguyen@gmail.com | change_passphrase | success | 
+2025-07-15T17:50:37.315304 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:50:37.414384 | lqd.a1k21.hotranhainguyen@gmail.com | change_passphrase | success | 
+2025-07-15T17:52:03.385157 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:52:08.586771 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T17:52:08.586771 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T17:52:08.588021 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T17:52:21.973889 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:52:22.075892 | lqd.a1k21.hotranhainguyen@gmail.com | change_passphrase | success | 
+2025-07-15T17:52:37.634612 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:52:37.732597 | lqd.a1k21.hotranhainguyen@gmail.com | change_passphrase | success | 
+2025-07-15T17:52:47.598909 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T17:52:47.601419 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | removed | 
+2025-07-15T17:52:47.601419 | lqd.a1k21.hotranhainguyen@gmail.com | delete_account | success | 
+2025-07-15T17:52:48.758772 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_code | success | 
+2025-07-15T17:52:48.758772 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_backup | success | 
+2025-07-15T17:53:30.218838 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T17:53:36.723634 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T17:53:36.723634 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T17:53:36.727865 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T17:53:41.665908 | hainguyen1852004@gmail.com | list_users | success | 
+2025-07-15T17:55:06.339884 | hainguyen1852004@gmail.com | get_stats | success | 
+2025-07-15T18:04:44.465387 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T18:04:51.076184 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T18:04:51.076184 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T18:04:51.078318 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T18:05:00.515157 | hainguyen1852004@gmail.com | list_users | success | 
+2025-07-15T18:05:12.783577 | hainguyen1852004@gmail.com | view_logs_50 | success | 
+2025-07-15T18:05:17.434392 | hainguyen1852004@gmail.com | get_stats | success | 
+2025-07-15T18:05:56.912454 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-15T18:05:56.912454 | lqd.a1k21.hotranhainguyen@gmail.com | register | success | 
+2025-07-15T18:05:57.820736 | lqd.a1k21.hotranhainguyen@gmail.com | generate_recovery_code | success | 
+2025-07-15T18:07:29.073843 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T18:07:32.785382 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T18:07:42.241287 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success | 
+2025-07-15T18:07:42.242290 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T18:07:42.243698 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T18:07:58.777046 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T18:07:58.779866 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | removed | 
+2025-07-15T18:07:58.779866 | lqd.a1k21.hotranhainguyen@gmail.com | delete_account | success | 
+2025-07-15T18:07:59.602162 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_code | success | 
+2025-07-15T18:20:44.677016 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-15T18:20:44.678018 | lqd.a1k21.hotranhainguyen@gmail.com | register | success | 
+2025-07-15T18:20:46.382444 | lqd.a1k21.hotranhainguyen@gmail.com | generate_recovery_code | success | 
+2025-07-15T18:32:57.244831 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T18:33:00.914141 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T18:33:21.268587 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | fail: wrong | 
+2025-07-15T18:33:21.268587 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_1 | 
+2025-07-15T18:33:24.111634 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T18:33:27.369930 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T18:33:40.135583 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success | 
+2025-07-15T18:33:40.135583 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T18:33:40.137052 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T18:33:48.426092 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T18:33:48.427314 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | removed | 
+2025-07-15T18:33:48.427314 | lqd.a1k21.hotranhainguyen@gmail.com | delete_account | success | 
+2025-07-15T18:33:49.115645 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_code | success | 
+2025-07-15T18:34:19.525370 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-15T18:34:19.526371 | lqd.a1k21.hotranhainguyen@gmail.com | register | success | 
+2025-07-15T18:34:20.574500 | lqd.a1k21.hotranhainguyen@gmail.com | generate_recovery_code | success | 
+2025-07-15T18:38:12.252574 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T18:38:15.604086 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T18:38:25.981639 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success | 
+2025-07-15T18:38:25.982640 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T18:38:25.984144 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T18:38:29.275757 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T18:38:29.277220 | lqd.a1k21.hotranhainguyen@gmail.com | delete_account | fail: bad_pass | 
+2025-07-15T18:38:35.002496 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T18:38:35.003500 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | removed | 
+2025-07-15T18:38:35.004978 | lqd.a1k21.hotranhainguyen@gmail.com | delete_account | success | 
+2025-07-15T18:38:35.748182 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_code | success | 
+2025-07-15T18:39:03.725612 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-15T18:39:03.725612 | lqd.a1k21.hotranhainguyen@gmail.com | register | success | 
+2025-07-15T18:39:04.574111 | lqd.a1k21.hotranhainguyen@gmail.com | generate_recovery_code | success | 
+2025-07-15T18:39:19.118636 | lqd.a1k21.hotranhainguyen@gmail.com | create_recovery_backup | success | 
+2025-07-15T18:40:51.988932 | lqd.a1k21.hotranhainguyen@gmail.com | reset_password_with_recovery | success | 
+2025-07-15T18:40:58.454306 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_code | success | 
+2025-07-15T18:40:58.455743 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_backup | success | 
+2025-07-15T18:43:13.958361 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T18:43:17.537916 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T18:43:26.520941 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success | 
+2025-07-15T18:43:26.522385 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T18:43:26.523889 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T18:43:46.098195 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T18:43:46.099623 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | removed | 
+2025-07-15T18:43:46.101045 | lqd.a1k21.hotranhainguyen@gmail.com | delete_account | success | 
+2025-07-15T18:48:36.659236 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-15T18:48:36.659236 | lqd.a1k21.hotranhainguyen@gmail.com | register | success | 
+2025-07-15T18:48:37.428126 | lqd.a1k21.hotranhainguyen@gmail.com | generate_recovery_code | success | 
+2025-07-15T18:48:44.461069 | lqd.a1k21.hotranhainguyen@gmail.com | create_recovery_backup | success | 
+2025-07-15T18:49:41.647060 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T18:49:45.319276 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T18:49:53.256538 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success | 
+2025-07-15T18:49:53.257834 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T18:49:53.259839 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T18:49:56.208913 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T18:49:56.210318 | lqd.a1k21.hotranhainguyen@gmail.com | delete_account | fail: bad_pass | 
+2025-07-15T18:50:07.963389 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T18:50:07.964860 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | removed | 
+2025-07-15T18:50:07.966069 | lqd.a1k21.hotranhainguyen@gmail.com | delete_account | success | 
+2025-07-15T18:50:08.680835 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_code | success | 
+2025-07-15T18:50:08.680835 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_backup | success | 
+2025-07-15T18:51:46.548023 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-15T18:51:46.548023 | lqd.a1k21.hotranhainguyen@gmail.com | register | success | 
+2025-07-15T18:51:47.685459 | lqd.a1k21.hotranhainguyen@gmail.com | generate_recovery_code | success | 
+2025-07-15T18:51:52.311593 | lqd.a1k21.hotranhainguyen@gmail.com | create_recovery_backup | success | 
+2025-07-15T18:52:47.661543 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T18:52:51.176261 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T18:52:59.617258 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success | 
+2025-07-15T18:52:59.618296 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T18:52:59.619631 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T18:53:06.874905 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T18:53:06.876874 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | removed | 
+2025-07-15T18:53:06.876874 | lqd.a1k21.hotranhainguyen@gmail.com | delete_account | success | 
+2025-07-15T18:53:07.820772 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_code | success | 
+2025-07-15T18:53:07.820772 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_backup | success | 
+2025-07-15T18:55:36.042525 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-15T18:55:36.042525 | lqd.a1k21.hotranhainguyen@gmail.com | register | success | 
+2025-07-15T18:55:36.044029 | lqd.a1k21.hotranhainguyen@gmail.com | generate_recovery_code | success | 
+2025-07-15T18:55:41.627829 | lqd.a1k21.hotranhainguyen@gmail.com | create_recovery_backup | success | 
+2025-07-15T18:56:39.694442 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T18:56:43.119345 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T18:56:52.451681 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success | 
+2025-07-15T18:56:52.452752 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T18:56:52.455299 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T18:57:00.395319 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T18:57:00.397664 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | removed | 
+2025-07-15T18:57:00.397664 | lqd.a1k21.hotranhainguyen@gmail.com | delete_account | success | 
+2025-07-15T18:57:01.419729 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_code | success | 
+2025-07-15T18:57:01.420833 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_backup | success | 
+2025-07-15T18:58:34.334481 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-15T18:58:34.334481 | lqd.a1k21.hotranhainguyen@gmail.com | register | success | 
+2025-07-15T18:58:34.335568 | lqd.a1k21.hotranhainguyen@gmail.com | generate_recovery_code | success | 
+2025-07-15T18:58:44.598539 | lqd.a1k21.hotranhainguyen@gmail.com | create_recovery_backup | success | 
+2025-07-15T18:59:24.825061 | lqd.a1k21.hotranhainguyen@gmail.com | reset_password_with_recovery | success | 
+2025-07-15T18:59:57.211825 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T19:00:00.682070 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T19:00:09.087993 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success | 
+2025-07-15T19:00:09.089305 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T19:00:09.090684 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T19:01:50.318314 | lqd.a1k21.hotranhainguyen@gmail.com | reset_password_with_recovery | success | 
+2025-07-15T19:15:42.327696 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T19:15:42.327696 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_1 | 
+2025-07-15T19:15:48.152258 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T19:15:51.647424 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T19:15:59.885578 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success | 
+2025-07-15T19:15:59.886854 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T19:15:59.888704 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T19:16:07.179473 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T19:16:07.182015 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | removed | 
+2025-07-15T19:16:07.182015 | lqd.a1k21.hotranhainguyen@gmail.com | delete_account | success | 
+2025-07-15T19:16:08.801634 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_code | success | 
+2025-07-15T19:16:08.801634 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_backup | success | 
+2025-07-15T19:17:20.988705 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-15T19:17:20.988705 | lqd.a1k21.hotranhainguyen@gmail.com | register | success | 
+2025-07-15T19:17:20.990785 | lqd.a1k21.hotranhainguyen@gmail.com | generate_recovery_code | success | 
+2025-07-15T19:17:37.160526 | lqd.a1k21.hotranhainguyen@gmail.com | create_recovery_backup | success | 
+2025-07-15T19:21:43.006570 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T19:21:43.006570 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_1 | 
+2025-07-15T19:21:50.932574 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T19:21:54.293008 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T19:22:53.764647 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T19:22:57.151072 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T19:23:06.055898 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success | 
+2025-07-15T19:23:06.057397 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T19:23:06.058777 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T19:23:13.113025 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T19:23:13.115460 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | removed | 
+2025-07-15T19:23:13.115460 | lqd.a1k21.hotranhainguyen@gmail.com | delete_account | success | 
+2025-07-15T19:23:13.922085 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_code | success | 
+2025-07-15T19:23:13.922085 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_backup | success | 
+2025-07-15T19:23:39.063684 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-15T19:23:39.064687 | lqd.a1k21.hotranhainguyen@gmail.com | register | success | 
+2025-07-15T19:23:39.066130 | lqd.a1k21.hotranhainguyen@gmail.com | generate_recovery_code | success | 
+2025-07-15T19:23:52.380633 | lqd.a1k21.hotranhainguyen@gmail.com | create_recovery_backup | success | 
+2025-07-15T19:26:46.095289 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T19:26:49.402634 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T19:26:57.348780 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success | 
+2025-07-15T19:26:57.350283 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T19:26:57.351776 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T19:27:04.439715 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T19:27:04.442278 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | removed | 
+2025-07-15T19:27:04.442278 | lqd.a1k21.hotranhainguyen@gmail.com | delete_account | success | 
+2025-07-15T19:27:05.228920 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_code | success | 
+2025-07-15T19:27:05.228920 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_backup | success | 
+2025-07-15T19:27:31.179847 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-15T19:27:31.179847 | lqd.a1k21.hotranhainguyen@gmail.com | register | success | 
+2025-07-15T19:27:32.032895 | lqd.a1k21.hotranhainguyen@gmail.com | generate_recovery_code | success | 
+2025-07-15T19:27:44.044140 | lqd.a1k21.hotranhainguyen@gmail.com | create_recovery_backup | success | 
+2025-07-15T19:28:01.917426 | lqd.a1k21.hotranhainguyen@gmail.com | recover_private_key | success | 
+2025-07-15T19:28:01.925163 | lqd.a1k21.hotranhainguyen@gmail.com | reset_password_with_recovery | success | 
+2025-07-15T19:28:15.445578 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T19:28:18.636662 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T19:28:25.867687 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success | 
+2025-07-15T19:28:25.868789 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T19:28:25.870209 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T19:28:34.079530 | lqd.a1k21.hotranhainguyen@gmail.com | recover_private_key | success | 
+2025-07-15T19:28:34.079530 | lqd.a1k21.hotranhainguyen@gmail.com | reset_password_with_recovery | success | 
+2025-07-15T19:28:38.704617 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T19:28:42.033854 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T19:28:50.303248 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success | 
+2025-07-15T19:28:50.303248 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T19:28:50.305732 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T19:28:56.123345 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T19:28:56.326199 | lqd.a1k21.hotranhainguyen@gmail.com | totp_qr_created | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\lqd.a1k21.hotranhainguyen@gmail.com_totp_qr.png | 
+2025-07-15T19:29:15.614691 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T19:29:18.809873 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T19:29:25.985723 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success | 
+2025-07-15T19:29:25.985723 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T19:29:25.987225 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T19:29:34.400852 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T19:29:34.403332 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | removed | 
+2025-07-15T19:29:34.404354 | lqd.a1k21.hotranhainguyen@gmail.com | delete_account | success | 
+2025-07-15T19:29:35.365910 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_code | success | 
+2025-07-15T19:29:35.365910 | lqd.a1k21.hotranhainguyen@gmail.com | delete_recovery_backup | success | 
+2025-07-15T19:44:44.307683 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T19:44:44.308686 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_1 | 
+2025-07-15T19:44:49.508549 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T19:44:49.510623 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_2 | 
+2025-07-15T19:44:58.708684 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T19:44:58.708684 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_3 | 
+2025-07-15T19:45:16.187932 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T19:45:16.188939 | lqd.a1k21.hotranhainguyen@gmail.com | failed_login | attempt_4 | 
+2025-07-15T19:45:23.704990 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | fail | 
+2025-07-15T19:45:23.705992 | lqd.a1k21.hotranhainguyen@gmail.com | account_locked | until_2025-07-15T19:50:23.705992 | 
+2025-07-15T19:45:41.564434 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T19:45:44.893817 | hainguyen1852004@gmail.com | send_otp_email | success | 
+2025-07-15T19:45:58.363370 | hainguyen1852004@gmail.com | verify_otp | success | 
+2025-07-15T19:45:58.364869 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T19:45:58.367127 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T19:46:14.429879 | hainguyen1852004@gmail.com | unlock_user | fail: not_found - lqd.a1k21.hotranhainguyen@gmail.com | 
+2025-07-15T19:47:10.847195 | lqd.a1k21.hotranhainguyen@gmail.com | rsa_keypair | created | 
+2025-07-15T19:47:10.847195 | lqd.a1k21.hotranhainguyen@gmail.com | register | success | 
+2025-07-15T19:47:11.853788 | lqd.a1k21.hotranhainguyen@gmail.com | generate_recovery_code | success | 
+2025-07-15T19:47:13.169702 | lqd.a1k21.hotranhainguyen@gmail.com | create_recovery_backup | success | 
+2025-07-15T19:48:10.940307 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T19:48:12.050450 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T19:48:15.487693 | lqd.a1k21.hotranhainguyen@gmail.com | send_otp_email | success | 
+2025-07-15T19:48:24.155455 | lqd.a1k21.hotranhainguyen@gmail.com | verify_otp | success | 
+2025-07-15T19:48:24.156815 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T19:48:24.158156 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T19:48:28.308709 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T19:48:28.334346 | lqd.a1k21.hotranhainguyen@gmail.com | totp_qr_created | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\lqd.a1k21.hotranhainguyen@gmail.com_totp_qr.png | 
+2025-07-15T19:48:49.763541 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T19:48:49.763541 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T19:48:49.764544 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T19:48:53.023330 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T19:49:00.052522 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T19:49:00.053573 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T19:49:00.055075 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T19:49:30.107194 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T19:49:35.992315 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T19:49:35.993687 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T19:49:35.995078 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T19:50:08.658032 | hainguyen1852004@gmail.com | lock_user_lqd.a1k21.hotranhainguyen@gmail.com | success | 
+2025-07-15T19:50:35.886351 | hainguyen1852004@gmail.com | unlock_user_lqd.a1k21.hotranhainguyen@gmail.com | success | 
+2025-07-15T19:50:56.729469 | hainguyen1852004@gmail.com | promote_admin_lqd.a1k21.hotranhainguyen@gmail.com | success | 
+2025-07-15T19:51:16.280039 | hainguyen1852004@gmail.com | demote_admin_lqd.a1k21.hotranhainguyen@gmail.com | success | 
+2025-07-15T19:51:24.073824 | hainguyen1852004@gmail.com | view_logs | fail: invalid_passphrase | 
+2025-07-15T19:51:29.789467 | hainguyen1852004@gmail.com | view_logs_50 | success | 
+2025-07-15T19:51:34.425985 | hainguyen1852004@gmail.com | get_stats | success | 
+2025-07-15T19:54:59.452772 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T19:55:07.312378 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-07-15T19:55:07.313448 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T19:55:07.314807 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T19:55:27.352346 | hainguyen1852004@gmail.com | lock_user_lqd.a1k21.hotranhainguyen@gmail.com | success | 
+2025-07-15T19:55:42.682293 | hainguyen1852004@gmail.com | unlock_user_lqd.a1k21.hotranhainguyen@gmail.com | success | 
+2025-07-15T19:55:52.884682 | hainguyen1852004@gmail.com | promote_admin | fail: invalid_passphrase | 
+2025-07-15T19:56:00.998054 | hainguyen1852004@gmail.com | promote_admin_lqd.a1k21.hotranhainguyen@gmail.com | success | 
+2025-07-15T19:56:10.042157 | lqd.a1k21.hotranhainguyen@gmail.com | verify_password | success | 
+2025-07-15T19:56:14.753670 | lqd.a1k21.hotranhainguyen@gmail.com | verify_totp | success | 
+2025-07-15T19:56:14.753670 | lqd.a1k21.hotranhainguyen@gmail.com | login | success | 
+2025-07-15T19:56:14.756295 | lqd.a1k21.hotranhainguyen@gmail.com | successful_login | reset | 
+2025-07-15T19:56:27.101960 | lqd.a1k21.hotranhainguyen@gmail.com | promote_admin | fail: not_owner | 
+2025-07-15T21:39:53.656218 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T21:39:58.247665 | hainguyen1852004@gmail.com | send_otp_email | success | 
+2025-07-15T21:40:11.474246 | hainguyen1852004@gmail.com | verify_otp | success | 
+2025-07-15T21:40:11.474246 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T21:40:11.476249 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T21:40:36.281970 | hainguyen1852004@gmail.com | create_qr_public_key | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\hainguyen1852004@gmail.com_public_key_qr.png | 
+2025-07-15T21:40:43.868821 | hainguyen1852004@gmail.com | import_qr_public_key | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\keys\hainguyen1852004@gmail.com_public.pem | 
+2025-07-15T21:46:52.405778 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T21:46:57.081895 | hainguyen1852004@gmail.com | send_otp_email | success | 
+2025-07-15T21:47:08.674079 | hainguyen1852004@gmail.com | verify_otp | success | 
+2025-07-15T21:47:08.675079 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T21:47:08.677081 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T22:13:32.460814 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-07-15T22:13:36.783308 | hainguyen1852004@gmail.com | send_otp_email | success | 
+2025-07-15T22:13:46.653841 | hainguyen1852004@gmail.com | verify_otp | success | 
+2025-07-15T22:13:46.654852 | hainguyen1852004@gmail.com | login | success | 
+2025-07-15T22:13:46.660471 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-07-15T22:14:02.005899 | hainguyen1852004@gmail.com | import_qr_public_key | e:\VS code\Year 3\Term 3\AnNinh\Project 1\ANMT-HCMUS\data\keys\hainguyen1852004@gmail.com_public.pem | 
+2025-09-26T16:26:57.734928 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-09-26T16:27:14.804182 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-09-26T16:27:14.805685 | hainguyen1852004@gmail.com | login | success | 
+2025-09-26T16:27:14.807719 | hainguyen1852004@gmail.com | successful_login | reset | 
+2025-09-26T16:27:22.308973 | hainguyen1852004@gmail.com | get_stats | success | 
+2025-09-26T16:32:27.910448 | hainguyen1852004@gmail.com | verify_password | success | 
+2025-09-26T16:32:36.028769 | hainguyen1852004@gmail.com | verify_totp | success | 
+2025-09-26T16:32:36.030090 | hainguyen1852004@gmail.com | login | success | 
+2025-09-26T16:32:36.031343 | hainguyen1852004@gmail.com | successful_login | reset | 
